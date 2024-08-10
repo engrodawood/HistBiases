@@ -15,7 +15,7 @@ Recent advances in computational pathology have introduced deep learning methods
 ### Methods
 ![Workflow Diagram](https://github.com/user-attachments/assets/ccc38b3f-bb17-4b8d-92a5-302ef5635d68)
 
-This diagram illustrates the conceptual framework of ML methods aimed at predicting the status of molecular biomarkers from histology images. 
+Diagram illustrates conceptual framework of ML methods aimed at predicting the status of molecular biomarkers from histology images. 
 A) Machine learning-based prediction of molecular characteristics or omics biomarkers from whole slide images involves using training data of WSIs with known biomarker statuses. The ML model accepts the representation of the whole slide image (X) as input and predicts the status of a certain biomarker (Y) as the target. B) An ideal predictor should be able to predict mutational or omics-based biomarker signatures using features based on the histological effects of that biomarker, and its output (Z) should be independent of unrelated confounding factors (lumped into a variable C) as shown in the simplified causal diagram. Conversely, if the predictor’s output is dependent upon the histological effects of (Y) as well as other confounding factors such as histological grade or tumor mutational burden, it may not be possible to tease out the individual effect of Y independently.
 
 ### Interpretation
