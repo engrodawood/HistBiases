@@ -38,7 +38,7 @@ If you use this repository, please cite our preprint:
 
 The source code of SlideGraph∞ is released under the MIT-CC-Non-Commercial license. For CLAM, please refer to the official repository for licensing information: [CLAM GitHub Repository](https://github.com/mahmoodlab/CLAM/tree/master).
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ---
 
