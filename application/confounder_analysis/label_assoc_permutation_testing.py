@@ -16,7 +16,7 @@ from application.project import WORKSPACE_DIR,OUTPUT_DIR,CLAM_DICT,LAYER_DICT,DA
 from application.misc.meta import COHORT_GENES_AUC,dict_label_assoc
 
 EXPERIMENT = 'ConfounderAnalysis'
-OUT_DIR = f'{OUTPUT_DIR}/{EXPERIMENT}/labels_assoc_cv_fixed'
+OUT_DIR = f'{OUTPUT_DIR}/{EXPERIMENT}/labels_assoc'
 LABEL_ASSOC_DIR = f'{OUTPUT_DIR}/LabelCodependence/csv'
 PRED_DIR =f'{OUTPUT_DIR}/Predictions'
 mkdir(OUT_DIR)
