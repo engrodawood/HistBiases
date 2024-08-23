@@ -1,0 +1,127 @@
+#Patient Identifier	Sample Identifier	Cancer type	Cancer Type Detailed	Ischemia Time in Minutes	NMF Cluster	NMF Cluster Membership Score	Oncotree code	PAM50	TMT Channel	TMT Plex	Tumor Stage	TMB (nonsynonymous)
+#Patient Identifier	Sample Identifier	Cancer type	Cancer Type Detailed	Ischemia time in minutes	NMF-based multi-omics subtype	Cluster Membership score indicating the representiveness of a tumor in its cluster	Oncotree code	PAM50 classification	TMT10 reporter ion channel	TMT10 plex number	Tumor stage	TMB (nonsynonymous)
+#STRING	STRING	STRING	STRING	NUMBER	STRING	NUMBER	STRING	STRING	STRING	STRING	STRING	NUMBER
+#1	1	1	1	1	1	1	1	5	1	1	5	1
+PATIENT_ID	SAMPLE_ID	CANCER TYPE	CANCER_TYPE_DETAILED	ISCHEMIA_TIME_IN_MINUTES	NMF_CLUSTER	NMF_CLUSTER_MEMBERSHIP_SCORE	ONCOTREE CODE	PAM50	TMT_CHANNEL	TMT_PLEX	TUMOR_STAGE	TMB_NONSYNONYMOUS
+CPT000814	CPT000814	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	1	BRCA	Basal	127C	13	Stage IIA	2.7
+CPT001846	CPT001846	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.672	BRCA	Basal	128C	12	Stage III	2.46666666667
+X01BR001	X01BR001	Breast Cancer	Invasive Breast Carcinoma	0	Basal-I	0.782	BRCA	Basal	129N	2	Stage IIB	2.4
+X01BR008	X01BR008	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.958	BRCA	Basal	127C	16	NA	4.03333333333
+X01BR009	X01BR009	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.825	BRCA	Basal	127N	16	NA	3.76666666667
+X01BR010	X01BR010	Breast Cancer	Invasive Breast Carcinoma	NA	HER2-I	0.734	BRCA	Her2	130C	17	NA	2.6
+X01BR015	X01BR015	Breast Cancer	Invasive Breast Carcinoma	1	LumA-I	0.55	BRCA	LumA	128N	2	Stage IIB	1.66666666667
+X01BR017	X01BR017	Breast Cancer	Invasive Breast Carcinoma	0	Basal-I	0.508	BRCA	Her2	130C	1	Stage III	4.26666666667
+X01BR018	X01BR018	Breast Cancer	Invasive Breast Carcinoma	1	Basal-I	0.915	BRCA	Basal	129N	7	Stage IIIA	10.3333333333
+X01BR020	X01BR020	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.913	BRCA	Basal	127C	17	NA	2.9
+X01BR023	X01BR023	Breast Cancer	Invasive Breast Carcinoma	NA	LumB-I	1	BRCA	LumA	126	17	NA	1.1
+X01BR025	X01BR025	Breast Cancer	Invasive Breast Carcinoma	6	LumB-I	0.551	BRCA	LumA	127N	9	Stage IIIA	0.366666666667
+X01BR026	X01BR026	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.555	BRCA	Basal	129N	16	NA	2.56666666667
+X01BR027	X01BR027	Breast Cancer	Invasive Breast Carcinoma	8	Basal-I	1	BRCA	Basal	127N	3	Stage IIA	5.83333333333
+X01BR030	X01BR030	Breast Cancer	Invasive Breast Carcinoma	4	LumA-I	0.409	BRCA	LumA	128C	7	Stage IIIA	2.13333333333
+X01BR031	X01BR031	Breast Cancer	Invasive Breast Carcinoma	9	Basal-I	0.816	BRCA	Basal	130N	6	Stage III	1.66666666667
+X01BR032	X01BR032	Breast Cancer	Invasive Breast Carcinoma	0	LumB-I	0.854	BRCA	LumB	130N	2	Stage IIIB	0.9
+X01BR033	X01BR033	Breast Cancer	Invasive Breast Carcinoma	10	LumA-I	0.634	BRCA	LumA	128N	5	Stage III	3.0
+X01BR040	X01BR040	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.938	BRCA	Basal	127N	11	Stage IIB	1.4
+X01BR042	X01BR042	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.99	BRCA	Basal	128N	13	NA	3.06666666667
+X01BR043	X01BR043	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.825	BRCA	Basal	129C	9	NA	264.633333333
+X03BR002	X03BR002	Breast Cancer	Invasive Breast Carcinoma	15	LumA-I	0.6	BRCA	LumA	126	12	Stage IIIA	0.933333333333
+X03BR004	X03BR004	Breast Cancer	Invasive Breast Carcinoma	24	LumA-I	0.559	BRCA	LumA	130N	3	Stage IIB	1.7
+X03BR005	X03BR005	Breast Cancer	Invasive Breast Carcinoma	12	LumA-I	1	BRCA	LumA	126	7	Stage IIA	0.4
+X03BR006	X03BR006	Breast Cancer	Invasive Breast Carcinoma	NA	Basal-I	0.93	BRCA	Basal	130N	16	NA	3.16666666667
+X03BR010	X03BR010	Breast Cancer	Invasive Breast Carcinoma	21	LumB-I	0.791	BRCA	LumA	129C	5	Stage IIA	1.93333333333
+X03BR011	X03BR011	Breast Cancer	Invasive Breast Carcinoma	NA	LumB-I	0.65	BRCA	LumA	129C	17	NA	1.6
+X03BR013	X03BR013	Breast Cancer	Invasive Breast Carcinoma	9	LumA-I	0.779	BRCA	LumA	128C	3	Stage IIA	1.23333333333
+X05BR001	X05BR001	Breast Cancer	Invasive Breast Carcinoma	29	HER2-I	0.586	BRCA	Basal	128N	6	Stage IIB	0.966666666667
+X05BR003	X05BR003	Breast Cancer	Invasive Breast Carcinoma	30	LumA-I	0.781	BRCA	LumA	130N	9	Stage IIB	2.3
+X05BR004	X05BR004	Breast Cancer	Invasive Breast Carcinoma	NA	LumA-I	0.535	BRCA	LumA	129C	16	NA	1.73333333333
+X05BR005	X05BR005	Breast Cancer	Invasive Breast Carcinoma	11	LumA-I	0.607	BRCA	LumA	130C	12	Stage IA	2.26666666667
+X05BR009	X05BR009	Breast Cancer	Invasive Breast Carcinoma	28	LumA-I	1	BRCA	LumA	126	9	Stage IIIC	3.26666666667
+X05BR016	X05BR016	Breast Cancer	Invasive Breast Carcinoma	20	LumB-I	0.786	BRCA	LumA	128N	7	Stage IIB	2.4
+X05BR026	X05BR026	Breast Cancer	Invasive Breast Carcinoma	19	LumA-I	0.683	BRCA	LumA	127N	10	Stage IIA	1.13333333333
+X05BR029	X05BR029	Breast Cancer	Invasive Breast Carcinoma	13	Basal-I	0.898	BRCA	Basal	130C	9	Stage IIA	11.7666666667
+X05BR038	X05BR038	Breast Cancer	Invasive Breast Carcinoma	22	LumA-I	0.598	BRCA	LumA	128C	11	Stage IA	12.8
+X05BR042	X05BR042	Breast Cancer	Invasive Breast Carcinoma	20	Basal-I	1	BRCA	Basal	129C	7	Stage IIB	4.2
+X05BR043	X05BR043	Breast Cancer	Invasive Breast Carcinoma	16	Basal-I	0.771	BRCA	Basal	126	10	Stage IIB	4.93333333333
+X05BR044	X05BR044	Breast Cancer	Invasive Breast Carcinoma	17	HER2-I	0.863	BRCA	Her2	126	8	Stage IIB	1.73333333333
+X05BR045	X05BR045	Breast Cancer	Invasive Breast Carcinoma	13	Basal-I	0.826	BRCA	Basal	130C	2	Stage IIA	2.2
+X06BR003	X06BR003	Breast Cancer	Invasive Breast Carcinoma	11	HER2-I	0.333	BRCA	Her2	129N	1	Stage IIA	3.76666666667
+X06BR005	X06BR005	Breast Cancer	Invasive Breast Carcinoma	15	LumB-I	0.604	BRCA	LumA	129C	8	Stage IIA	1.9
+X06BR006	X06BR006	Breast Cancer	Invasive Breast Carcinoma	14	LumA-I	0.824	BRCA	Normal-like	126	2	NA	3.5
+X06BR014	X06BR014	Breast Cancer	Invasive Breast Carcinoma	16	LumB-I	0.577	BRCA	LumA	128N	12	Stage IIB	0.9
+X09BR001	X09BR001	Breast Cancer	Invasive Breast Carcinoma	NA	LumB-I	0.799	BRCA	LumA	129N	17	NA	1.63333333333
+X09BR004	X09BR004	Breast Cancer	Invasive Breast Carcinoma	12	Basal-I	0.446	BRCA	Normal-like	130N	11	Stage IIA	1.93333333333
+X09BR005	X09BR005	Breast Cancer	Invasive Breast Carcinoma	22	HER2-I	0.569	BRCA	Her2	127N	2	Stage IIB	2.5
+X09BR007	X09BR007	Breast Cancer	Invasive Breast Carcinoma	7	LumB-I	0.423	BRCA	LumA	130N	4	Stage IIIA	1.7
+X11BR003	X11BR003	Breast Cancer	Invasive Breast Carcinoma	5	Basal-I	0.784	BRCA	Basal	130C	3	Stage IIA	26.7666666667
+X11BR004	X11BR004	Breast Cancer	Invasive Breast Carcinoma	5	HER2-I	0.782	BRCA	Her2	128C	9	Stage IIA	1.3
+X11BR006	X11BR006	Breast Cancer	Invasive Breast Carcinoma	6	LumA-I	0.383	BRCA	LumA	127N	8	Stage IIA	2.63333333333
+X11BR009	X11BR009	Breast Cancer	Invasive Breast Carcinoma	1	LumB-I	0.776	BRCA	LumB	128C	4	Stage IIIC	4.36666666667
+X11BR010	X11BR010	Breast Cancer	Invasive Breast Carcinoma	10	HER2-I	0.811	BRCA	LumA	129C	6	Stage IIB	1.5
+X11BR011	X11BR011	Breast Cancer	Invasive Breast Carcinoma	10	HER2-I	0.648	BRCA	LumB	130C|127N	6|17	Stage IIIA	1.46666666667
+X11BR012	X11BR012	Breast Cancer	Invasive Breast Carcinoma	9	LumB-I	0.814	BRCA	LumA	130N	13	Stage IIA	3.23333333333
+X11BR013	X11BR013	Breast Cancer	Invasive Breast Carcinoma	9	LumB-I	0.872	BRCA	LumB	129N	5	Stage IIA	2.06666666667
+X11BR014	X11BR014	Breast Cancer	Invasive Breast Carcinoma	11	LumA-I	0.72	BRCA	LumA	128C	6	Stage IIIA	2.5
+X11BR015	X11BR015	Breast Cancer	Invasive Breast Carcinoma	12	LumB-I	0.941	BRCA	LumB	127C	9	Stage IIIA	0.933333333333
+X11BR016	X11BR016	Breast Cancer	Invasive Breast Carcinoma	12	Basal-I	0.937	BRCA	Basal	128C	8	Stage IIA	2.6
+X11BR017	X11BR017	Breast Cancer	Invasive Breast Carcinoma	11	HER2-I	0.75	BRCA	Her2	127C	2	Stage IIIA	1.66666666667
+X11BR018	X11BR018	Breast Cancer	Invasive Breast Carcinoma	11	LumA-I	0.962	BRCA	LumA	130C	8	Stage IIIA	2.23333333333
+X11BR019	X11BR019	Breast Cancer	Invasive Breast Carcinoma	12	LumB-I	0.658	BRCA	LumB	127N	5	Stage IIA	2.96666666667
+X11BR020	X11BR020	Breast Cancer	Invasive Breast Carcinoma	10	HER2-I	0.637	BRCA	LumA	130C	4	Stage IIA	4.03333333333
+X11BR022	X11BR022	Breast Cancer	Invasive Breast Carcinoma	7	LumA-I	0.414	BRCA	LumA	128C	5	Stage IIA	1.63333333333
+X11BR023	X11BR023	Breast Cancer	Invasive Breast Carcinoma	6	Basal-I	0.957	BRCA	Basal	128N	1	Stage IIA	3.56666666667
+X11BR024	X11BR024	Breast Cancer	Invasive Breast Carcinoma	7	Basal-I	0.903	BRCA	Basal	127C	7	Stage IIA	2.73333333333
+X11BR025	X11BR025	Breast Cancer	Invasive Breast Carcinoma	8	LumB-I	0.934	BRCA	LumA	128C	2	Stage IIA	1.5
+X11BR027	X11BR027	Breast Cancer	Invasive Breast Carcinoma	11	LumB-I	0.738	BRCA	LumA	126	11	Stage IIA	3.76666666667
+X11BR028	X11BR028	Breast Cancer	Invasive Breast Carcinoma	10	HER2-I	0.588	BRCA	Her2	126	4	Stage IIA	3.06666666667
+X11BR030	X11BR030	Breast Cancer	Invasive Breast Carcinoma	15	HER2-I	0.78	BRCA	Her2	126	6	Stage IIA	2.93333333333
+X11BR031	X11BR031	Breast Cancer	Invasive Breast Carcinoma	10	HER2-I	0.572	BRCA	LumA	129C|130C	2|5	Stage IIA	11.6333333333
+X11BR032	X11BR032	Breast Cancer	Invasive Breast Carcinoma	15	LumA-I	0.632	BRCA	LumA	129N	3	Stage IIA	0.6
+X11BR036	X11BR036	Breast Cancer	Invasive Breast Carcinoma	15	Basal-I	0.606	BRCA	Basal	128C|129C|130N	10|12|17	Stage IIA	2.06666666667
+X11BR038	X11BR038	Breast Cancer	Invasive Breast Carcinoma	10	HER2-I	0.726	BRCA	Her2	128N	10	Stage IIA	1.4
+X11BR040	X11BR040	Breast Cancer	Invasive Breast Carcinoma	5	LumA-I	0.606	BRCA	LumA	128N	9	Stage IIIA	1.0
+X11BR042	X11BR042	Breast Cancer	Invasive Breast Carcinoma	8	HER2-I	0.978	BRCA	Her2	130N	8	Stage IIA	0.9
+X11BR043	X11BR043	Breast Cancer	Invasive Breast Carcinoma	8	LumB-I	0.638	BRCA	LumB	127N	1	Stage IIB	2.63333333333
+X11BR044	X11BR044	Breast Cancer	Invasive Breast Carcinoma	10	LumB-I	0.606	BRCA	LumB	128N	8	Stage IIIA	1.6
+X11BR047	X11BR047	Breast Cancer	Invasive Breast Carcinoma	15	LumA-I	0.485	BRCA	LumA	126	1	Stage IIA	0.833333333333
+X11BR049	X11BR049	Breast Cancer	Invasive Breast Carcinoma	10	LumB-I	0.638	BRCA	LumB	127C	1	Stage IIIA	2.43333333333
+X11BR050	X11BR050	Breast Cancer	Invasive Breast Carcinoma	10	LumA-I	0.862	BRCA	LumA	127C	6	Stage IIA	0.9
+X11BR051	X11BR051	Breast Cancer	Invasive Breast Carcinoma	10	LumB-I	0.418	BRCA	LumA	128N	11	Stage IIIA	1.2
+X11BR053	X11BR053	Breast Cancer	Invasive Breast Carcinoma	10	LumB-I	0.744	BRCA	LumB	126|129N	3|11	Stage IIA	2.53333333333
+X11BR054	X11BR054	Breast Cancer	Invasive Breast Carcinoma	9	LumB-I	0.809	BRCA	LumA	130N	7	Stage IIA	0.7
+X11BR055	X11BR055	Breast Cancer	Invasive Breast Carcinoma	8	LumA-I	0.641	BRCA	LumA	129N	8	Stage IIA	2.53333333333
+X11BR056	X11BR056	Breast Cancer	Invasive Breast Carcinoma	15	HER2-I	0.623	BRCA	LumA	127C	10	Stage IIB	1.23333333333
+X11BR058	X11BR058	Breast Cancer	Invasive Breast Carcinoma	5	HER2-I	0.91	BRCA	Normal-like	129C	13	Stage IIA	1.93333333333
+X11BR059	X11BR059	Breast Cancer	Invasive Breast Carcinoma	5	HER2-I	0.79	BRCA	Normal-like	127C	11	Stage IIA	2.23333333333
+X11BR060	X11BR060	Breast Cancer	Invasive Breast Carcinoma	5	HER2-I	0.795	BRCA	Her2	129C|126	11|16	Stage IIB	3.66666666667
+X11BR072	X11BR072	Breast Cancer	Invasive Breast Carcinoma	5	LumA-I	0.863	BRCA	LumA	130C	10	Stage IIIC	1.36666666667
+X11BR073	X11BR073	Breast Cancer	Invasive Breast Carcinoma	5	LumB-I	0.472	BRCA	LumB	128N	4	Stage IIIA	2.53333333333
+X11BR074	X11BR074	Breast Cancer	Invasive Breast Carcinoma	5	LumA-I	0.862	BRCA	LumA	129C	1	Stage IIIA	0.633333333333
+X11BR075	X11BR075	Breast Cancer	Invasive Breast Carcinoma	5	LumB-I	0.484	BRCA	LumB	130C	11	Stage IIIA	5.2
+X11BR080	X11BR080	Breast Cancer	Invasive Breast Carcinoma	5	Basal-I	0.767	BRCA	Basal	127N	13	Stage IIB	2.23333333333
+X13BR009	X13BR009	Breast Cancer	Invasive Breast Carcinoma	22	LumB-I	0.618	BRCA	LumB	126	13	Stage IIIB	1.96666666667
+X14BR005	X14BR005	Breast Cancer	Invasive Breast Carcinoma	12	LumB-I	0.871	BRCA	LumA	127C|130C	8|16	Stage IIA	1.03333333333
+X14BR008	X14BR008	Breast Cancer	Invasive Breast Carcinoma	22	LumA-I	0.988	BRCA	LumA	127C	3	Stage IIIA	0.766666666667
+X14BR014	X14BR014	Breast Cancer	Invasive Breast Carcinoma	18	LumA-I	0.828	BRCA	LumA	129N	13	Stage IIA	0.7
+X15BR003	X15BR003	Breast Cancer	Invasive Breast Carcinoma	1	LumA-I	0.849	BRCA	LumA	128C	13	Stage IIA	22.0
+X16BR012	X16BR012	Breast Cancer	Invasive Breast Carcinoma	20	LumB-I	0.43	BRCA	LumB	127C	12	Stage IIIC	5.46666666667
+X18BR002	X18BR002	Breast Cancer	Invasive Breast Carcinoma	11	HER2-I	0.533	BRCA	Her2	128N	3	Stage IIIA	4.93333333333
+X18BR003	X18BR003	Breast Cancer	Invasive Breast Carcinoma	7	LumB-I	0.612	BRCA	LumB	127N	7	Stage IIA	33.5666666667
+X18BR004	X18BR004	Breast Cancer	Invasive Breast Carcinoma	8	LumB-I	0.837	BRCA	LumA	127N	4	Stage IIA	0.933333333333
+X18BR006	X18BR006	Breast Cancer	Invasive Breast Carcinoma	8	LumB-I	0.371	BRCA	LumB	129C	10	Stage IIA	4.23333333333
+X18BR007	X18BR007	Breast Cancer	Invasive Breast Carcinoma	11	LumA-I	0.615	BRCA	LumA	127N	6	Stage IIA	3.2
+X18BR009	X18BR009	Breast Cancer	Invasive Breast Carcinoma	7	HER2-I	0.578	BRCA	Normal-like	129N	10	Stage IIA	2.03333333333
+X18BR010	X18BR010	Breast Cancer	Invasive Breast Carcinoma	5	LumA-I	0.69	BRCA	LumA	128C	1	Stage IIIA	0.8
+X18BR016	X18BR016	Breast Cancer	Invasive Breast Carcinoma	9	LumA-I	0.757	BRCA	LumA	130N	12	Stage IA	1.16666666667
+X18BR017	X18BR017	Breast Cancer	Invasive Breast Carcinoma	14	HER2-I	0.539	BRCA	LumA	130N	1	Stage IA	2.56666666667
+X18BR019	X18BR019	Breast Cancer	Invasive Breast Carcinoma	13	LumB-I	0.569	BRCA	LumA	129N	4	Stage IIIA	1.0
+X20BR001	X20BR001	Breast Cancer	Invasive Breast Carcinoma	22	LumB-I	0.711	BRCA	LumA	129C	4	Stage IIA	1.1
+X20BR002	X20BR002	Breast Cancer	Invasive Breast Carcinoma	16	Basal-I	0.711	BRCA	Basal	126	5	Stage IIA	3.53333333333
+X20BR005	X20BR005	Breast Cancer	Invasive Breast Carcinoma	26	Basal-I	0.632	BRCA	Basal	127C	4	Stage IIB	4.16666666667
+X20BR006	X20BR006	Breast Cancer	Invasive Breast Carcinoma	18	Basal-I	0.728	BRCA	Basal	128N	17	Stage IIB	2.9
+X20BR007	X20BR007	Breast Cancer	Invasive Breast Carcinoma	16	Basal-I	0.609	BRCA	Basal	130N	5	Stage IIA	4.06666666667
+X20BR008	X20BR008	Breast Cancer	Invasive Breast Carcinoma	11	HER2-I	0.481	BRCA	Her2	127C	5	Stage IIIB	2.83333333333
+X21BR001	X21BR001	Breast Cancer	Invasive Breast Carcinoma	NA	LumB-I	0.536	BRCA	LumB	128N	16	NA	8.73333333333
+X21BR002	X21BR002	Breast Cancer	Invasive Breast Carcinoma	NA	LumB-I	0.443	BRCA	LumA	128C	16	NA	1.6
+X21BR010	X21BR010	Breast Cancer	Invasive Breast Carcinoma	18	LumA-I	0.559	BRCA	LumA	129C|128C	3|17	Stage IIA	0.8
+X22BR005	X22BR005	Breast Cancer	Invasive Breast Carcinoma	20	LumB-I	0.392	BRCA	LumA	129N	6	Stage IIB	2.93333333333
+X22BR006	X22BR006	Breast Cancer	Invasive Breast Carcinoma	25	LumB-I	0.402	BRCA	LumA	130N	10	Stage IIIA	0.666666666667
